@@ -1,4 +1,4 @@
-[
+{
   {
     "id": 1,
     "name": "Ducati Panigale",
@@ -8,12 +8,10 @@
       "imagess/ducati black.jpg"
     ],
     "detailsLink": "moteur.html",
-    "features": {
-      "disc": "Double Disc",
-      "fuel": "Petrol",
-      "mileage": "7500 (Mil)",
-      "range": "40 Kilo Mileage"
-    },
+    "disc": "Double Disc",
+    "fuel": "Petrol",
+    "mileage": "7500 (Mil)",
+    "range": "40 Kilo Mileage",
     "price": 6300.00
   },
   {
@@ -25,12 +23,10 @@
       "imagess/honda-cb500x-abs-white.jpg"
     ],
     "detailsLink": "moteur.html",
-    "features": {
-      "disc": "Double Disc",
-      "fuel": "Petrol",
-      "mileage": "7500 (Mil)",
-      "range": "40 Kilo Mileage"
-    },
+    "disc": "Double Disc",
+    "fuel": "Petrol",
+    "mileage": "7500 (Mil)",
+    "range": "40 Kilo Mileage",
     "price": 6300.00
   },
   {
@@ -42,12 +38,10 @@
       "imagess/H2R Sports Bike Phone Wallpaper.jpg"
     ],
     "detailsLink": "moteur.html",
-    "features": {
-      "disc": "Double Disc",
-      "fuel": "Petrol",
-      "mileage": "7500 (Mil)",
-      "range": "40 Kilo Mileage"
-    },
+    "disc": "Double Disc",
+    "fuel": "Petrol",
+    "mileage": "7500 (Mil)",
+    "range": "40 Kilo Mileage",
     "price": 6300.00
   },
   {
@@ -59,12 +53,10 @@
       "imagess/Moto Mt-03 white.jpg"
     ],
     "detailsLink": "moteur.html",
-    "features": {
-      "disc": "Double Disc",
-      "fuel": "Petrol",
-      "mileage": "7500 (Mil)",
-      "range": "40 Kilo Mileage"
-    },
+    "disc": "Double Disc",
+    "fuel": "Petrol",
+    "mileage": "7500 (Mil)",
+    "range": "40 Kilo Mileage",
     "price": 6300.00
   },
   {
@@ -76,12 +68,10 @@
       "imagess/wp3063499-yamaha-mt white.jpg"
     ],
     "detailsLink": "moteur.html",
-    "features": {
-      "disc": "Double Disc",
-      "fuel": "Petrol",
-      "mileage": "7500 (Mil)",
-      "range": "40 Kilo Mileage"
-    },
+    "disc": "Double Disc",
+    "fuel": "Petrol",
+    "mileage": "7500 (Mil)",
+    "range": "40 Kilo Mileage",
     "price": 6300.00
   },
   {
@@ -93,12 +83,10 @@
       "imagess/wp4180492-ducati-hypermotard-white.jpg"
     ],
     "detailsLink": "moteur.html",
-    "features": {
-      "disc": "Double Disc",
-      "fuel": "Petrol",
-      "mileage": "7500 (Mil)",
-      "range": "40 Kilo Mileage"
-    },
+    "disc": "Double Disc",
+    "fuel": "Petrol",
+    "mileage": "7500 (Mil)",
+    "range": "40 Kilo Mileage",
     "price": 6300.00
   }
-]
+  }
