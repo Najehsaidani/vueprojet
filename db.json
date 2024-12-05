@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "name": "Ducati Panigale",
+    "images": [
+      "imagess/Ducati Panigale red.jpg",
+      "imagess/Ducati Panigale gris.jpg",
+      "imagess/ducati black.jpg"
+    ],
+    "detailsLink": "moteur.html",
+    "features": {
+      "disc": "Double Disc",
+      "fuel": "Petrol",
+      "mileage": "7500 (Mil)",
+      "range": "40 Kilo Mileage"
+    },
+    "price": 6300.00
+  },
+  {
+    "id": 2,
+    "name": "Honda CB500X ABS",
+    "images": [
+      "imagess/honda-cb500x-abs black.jpg",
+      "imagess/honda-cb500x-abs red.jpg",
+      "imagess/honda-cb500x-abs-white.jpg"
+    ],
+    "detailsLink": "moteur.html",
+    "features": {
+      "disc": "Double Disc",
+      "fuel": "Petrol",
+      "mileage": "7500 (Mil)",
+      "range": "40 Kilo Mileage"
+    },
+    "price": 6300.00
+  },
+  {
+    "id": 3,
+    "name": "Kawasaki H2R",
+    "images": [
+      "imagess/Kawasaki H2R black.jpg",
+      "imagess/kawasaki ninja h2r green.jpg",
+      "imagess/H2R Sports Bike Phone Wallpaper.jpg"
+    ],
+    "detailsLink": "moteur.html",
+    "features": {
+      "disc": "Double Disc",
+      "fuel": "Petrol",
+      "mileage": "7500 (Mil)",
+      "range": "40 Kilo Mileage"
+    },
+    "price": 6300.00
+  },
+  {
+    "id": 4,
+    "name": "Moto MT-03",
+    "images": [
+      "imagess/Moto Mt-03 black.jpg",
+      "imagess/Moto Mt-03 blue.jpg",
+      "imagess/Moto Mt-03 white.jpg"
+    ],
+    "detailsLink": "moteur.html",
+    "features": {
+      "disc": "Double Disc",
+      "fuel": "Petrol",
+      "mileage": "7500 (Mil)",
+      "range": "40 Kilo Mileage"
+    },
+    "price": 6300.00
+  },
+  {
+    "id": 5,
+    "name": "Yamaha MT-09",
+    "images": [
+      "imagess/yamaha-mt-09-black.jpg",
+      "imagess/yamaha-mt-09 jaune.jpg",
+      "imagess/wp3063499-yamaha-mt white.jpg"
+    ],
+    "detailsLink": "moteur.html",
+    "features": {
+      "disc": "Double Disc",
+      "fuel": "Petrol",
+      "mileage": "7500 (Mil)",
+      "range": "40 Kilo Mileage"
+    },
+    "price": 6300.00
+  },
+  {
+    "id": 6,
+    "name": "Ducati Hypermotard 950",
+    "images": [
+      "imagess/wp4180443-ducati-hypermotard red.jpg",
+      "imagess/wp4180453-ducati-hypermotard-black.jpg",
+      "imagess/wp4180492-ducati-hypermotard-white.jpg"
+    ],
+    "detailsLink": "moteur.html",
+    "features": {
+      "disc": "Double Disc",
+      "fuel": "Petrol",
+      "mileage": "7500 (Mil)",
+      "range": "40 Kilo Mileage"
+    },
+    "price": 6300.00
+  }
+]
