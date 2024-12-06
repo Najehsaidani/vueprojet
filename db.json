@@ -18,9 +18,9 @@
       "id": 2,
       "name": "Honda CB500X ABS",
       "images": [
-        "/images/honda-cb500x-abs black.jpg",
-        "/images/honda-cb500x-abs red.jpg",
-        "/images/honda-cb500x-abs-white.jpg"
+        "/imagess/honda-cb500x-abs black.jpg",
+        "/imagess/honda-cb500x-abs red.jpg",
+        "/imagess/honda-cb500x-abs-white.jpg"
       ],
       "detailsLink": "moteur.html",
       "disc": "Double Disc",
@@ -33,9 +33,9 @@
       "id": 3,
       "name": "Kawasaki H2R",
       "images": [
-        "/images/Kawasaki H2R black.jpg",
-        "/images/kawasaki ninja h2r green.jpg",
-        "/images/H2R Sports Bike Phone Wallpaper.jpg"
+        "/imagess/Kawasaki H2R black.jpg",
+        "/imagess/kawasaki ninja h2r green.jpg",
+        "/imagess/H2R Sports Bike Phone Wallpaper.jpg"
       ],
       "detailsLink": "moteur.html",
       "disc": "Double Disc",
@@ -48,9 +48,9 @@
       "id": 4,
       "name": "Moto MT-03",
       "images": [
-        "/images/Moto Mt-03 black.jpg",
-        "/images/Moto Mt-03 blue.jpg",
-        "/images/Moto Mt-03 white.jpg"
+        "/imagess/Moto Mt-03 black.jpg",
+        "/imagess/Moto Mt-03 blue.jpg",
+        "/imagess/Moto Mt-03 white.jpg"
       ],
       "detailsLink": "moteur.html",
       "disc": "Double Disc",
