@@ -1,65 +1,65 @@
 
 {
-    "product":[
-      {
-        "id": 1,
-        "name": "Ducati Panigale",
-        "images": [
-          "assets/imagess/Ducati Panigale gris.jpg",
-          "../assets/images/ducati black.jpg"
-        ],
-        "detailsLink": "moteur.html",
-        "disc": "Double Disc",
-        "fuel": "Petrol",
-        "mileage": "7500 (Mil)",
-        "range": "40 Kilo Mileage",
-        "price": 6300.00
-      },
-      {
-        "id": 2,
-        "name": "Honda CB500X ABS",
-        "images": [
-          "../assets/images/honda-cb500x-abs black.jpg",
-          "../assets/images/honda-cb500x-abs red.jpg",
-          "../assets/images/honda-cb500x-abs-white.jpg"
-        ],
-        "detailsLink": "moteur.html",
-        "disc": "Double Disc",
-        "fuel": "Petrol",
-        "mileage": "7500 (Mil)",
-        "range": "40 Kilo Mileage",
-        "price": 6300.00
-      },
-      {
-        "id": 3,
-        "name": "Kawasaki H2R",
-        "images": [
-          "../assets/images/Kawasaki H2R black.jpg",
-          "../assets/images/kawasaki ninja h2r green.jpg",
-          "../assets/images/H2R Sports Bike Phone Wallpaper.jpg"
-        ],
-        "detailsLink": "moteur.html",
-        "disc": "Double Disc",
-        "fuel": "Petrol",
-        "mileage": "7500 (Mil)",
-        "range": "40 Kilo Mileage",
-        "price": 6300.00
-      },
-      {
-        "id": 4,
-        "name": "Moto MT-03",
-        "images": [
-          "../assets/images/Moto Mt-03 black.jpg",
-          "../assets/images/Moto Mt-03 blue.jpg",
-          "../assets/images/Moto Mt-03 white.jpg"
-        ],
-        "detailsLink": "moteur.html",
-        "disc": "Double Disc",
-        "fuel": "Petrol",
-        "mileage": "7500 (Mil)",
-        "range": "40 Kilo Mileage",
-        "price": 6300.00
-      }
-    ]
+  "product":[
+    {
+      "id": 1,
+      "name": "Ducati Panigale",
+      "images": [
+        "/imagess/Ducati Panigale gris.jpg",
+        "/images/ducati black.jpg"
+      ],
+      "detailsLink": "moteur.html",
+      "disc": "Double Disc",
+      "fuel": "Petrol",
+      "mileage": "7500 (Mil)",
+      "range": "40 Kilo Mileage",
+      "price": 6300.00
+    },
+    {
+      "id": 2,
+      "name": "Honda CB500X ABS",
+      "images": [
+        "/images/honda-cb500x-abs black.jpg",
+        "/images/honda-cb500x-abs red.jpg",
+        "/images/honda-cb500x-abs-white.jpg"
+      ],
+      "detailsLink": "moteur.html",
+      "disc": "Double Disc",
+      "fuel": "Petrol",
+      "mileage": "7500 (Mil)",
+      "range": "40 Kilo Mileage",
+      "price": 6300.00
+    },
+    {
+      "id": 3,
+      "name": "Kawasaki H2R",
+      "images": [
+        "/images/Kawasaki H2R black.jpg",
+        "/images/kawasaki ninja h2r green.jpg",
+        "/images/H2R Sports Bike Phone Wallpaper.jpg"
+      ],
+      "detailsLink": "moteur.html",
+      "disc": "Double Disc",
+      "fuel": "Petrol",
+      "mileage": "7500 (Mil)",
+      "range": "40 Kilo Mileage",
+      "price": 6300.00
+    },
+    {
+      "id": 4,
+      "name": "Moto MT-03",
+      "images": [
+        "/images/Moto Mt-03 black.jpg",
+        "/images/Moto Mt-03 blue.jpg",
+        "/images/Moto Mt-03 white.jpg"
+      ],
+      "detailsLink": "moteur.html",
+      "disc": "Double Disc",
+      "fuel": "Petrol",
+      "mileage": "7500 (Mil)",
+      "range": "40 Kilo Mileage",
+      "price": 6300.00
     }
-    
+  ]
+  }
+  
