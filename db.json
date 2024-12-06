@@ -59,34 +59,5 @@
     "range": "40 Kilo Mileage",
     "price": 6300.00
   },
-  {
-    "id": 5,
-    "name": "Yamaha MT-09",
-    "images": [
-      "imagess/yamaha-mt-09-black.jpg",
-      "imagess/yamaha-mt-09 jaune.jpg",
-      "imagess/wp3063499-yamaha-mt white.jpg"
-    ],
-    "detailsLink": "moteur.html",
-    "disc": "Double Disc",
-    "fuel": "Petrol",
-    "mileage": "7500 (Mil)",
-    "range": "40 Kilo Mileage",
-    "price": 6300.00
-  },
-  {
-    "id": 6,
-    "name": "Ducati Hypermotard 950",
-    "images": [
-      "imagess/wp4180443-ducati-hypermotard red.jpg",
-      "imagess/wp4180453-ducati-hypermotard-black.jpg",
-      "imagess/wp4180492-ducati-hypermotard-white.jpg"
-    ],
-    "detailsLink": "moteur.html",
-    "disc": "Double Disc",
-    "fuel": "Petrol",
-    "mileage": "7500 (Mil)",
-    "range": "40 Kilo Mileage",
-    "price": 6300.00
-  }
+  
 ]
